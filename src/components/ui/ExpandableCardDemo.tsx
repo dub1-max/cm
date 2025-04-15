@@ -211,7 +211,7 @@ const cards = [
   {
     description: " Luxury",
     title: " Experience",
-    src: "hhttps://i.postimg.cc/0ywR25cP/image-1.jpg",
+    src: "https://i.postimg.cc/0ywR25cP/image-1.jpg",
     ctaText: "Expand",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -252,7 +252,7 @@ const cards = [
     title: "Prime Location",
     src: "https://i.postimg.cc/yNhNxyv1/UdDTEeNg.jpg",
     ctaText: "Expand",
-    ctaLink: "https://ui.aceternity.com/templates",
+    ctaLink: "https://i.postimg.cc/0Qc2d5Th/G-QP6d.jpg",
     content: () => {
       return (
         <p>
@@ -266,7 +266,7 @@ const cards = [
   {
     description: "Vision",
     title: "Our",
-    src: "https://i.postimg.cc/0ywR25cP/image-1.jpg ",
+    src: "https://i.postimg.cc/K8MjS2Tg/gk-v1SqN.jpg",
     ctaText: "Expand",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
