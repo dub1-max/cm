@@ -211,7 +211,7 @@ const cards = [
   {
     description: " Luxury",
     title: " Experience",
-    src: "https://uc928efda54dfc2ccdaff90a4c6d.previews.dropboxusercontent.com/p/thumb/AClLauPtaerAlirriYb4e9oTUG2RVirALueoYWO67OVT2zDA5MGCRQjHmHGuxMpy_HpVMafXFcXTBEe9ARfw4eu7n6QRl8gY-v8Q6_8tidInNKrRt7TQOoP9YLhMKCes5ioPWEAInZ62z165jcKhGEsP1FYar2tZEHNTruZnr8qJBCZ1Jc7qYoTnzXGxiJ_lxFRpiqv8mzbY31bB_EM1ZCN8fBQsCNcnblok_97gFJT3fi3SPJLxcBzRfyGL6w-LHASOaGxnJyxcARTaFndxiKAi0TAWrznXm_n7NnFnvO_8kY7IHYLDgbPAdsN4qYOtvRiDMROH7sFszCrC4voS-PkfNS2SMCMj2J-tyPr4w-Es8MwiR1sLc4x8I_W-7hTSECdbWdEuSwJyh7iFW6ZDvXbFh7M2oWZcFLEimzW6dV4YAQOszjM01CqQW8-vzQPjrGWsizDfGOK0UF2Pn83hhxNUJ00ZLvlP5pcyZER9yjcFm3jDe0gqBtivDwLeDd9UYI-XXm_jB5k11AC5h3XU1QmXgTSyji3UNkPSjj3SCtdMKQ/p.jpeg",
+    src: "hhttps://i.postimg.cc/0ywR25cP/image-1.jpg",
     ctaText: "Expand",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -228,7 +228,7 @@ const cards = [
   {
     description: "of Renting",
     title: "Benefits",
-    src: "https://uccc81a41f526ea8f628a0ac6f9c.previews.dropboxusercontent.com/p/thumb/ACllxkQHxo-pGgGMz8ZNb-_1P_ZzWRMudIAHxcg9BCHOVU8tzdp3dh75d4z72Aj_CW4lGV8FJyouyiOf7Ev6WB6aAVqXUzq_hVqADfMPlmdcqNEUYlBKUqt2Nm5iHaYcIBv6hKy-UkW6i42zDp_6vXdkOVduR9pn7tlvKaGgSYzu3CgyV0FCCnq48Ej1yKgBmROeiAcUtrpNyeqaJ4--Hufi12I9r4KfBWbn1pV4DTrvGZoC17B3kuLf70hBuELdCCOp5NaJn4sdrdigEahK7U5L_CMgfxsbTmEfQiiZAj13LHYT-UHs8bHpj3Ot7GQ3wvGb6zy8QKMmwtSzG_6lFnwRNVPP0uLDoWZuIiK6ywlAChsskNdHZ4olNJGx5CyCzL5AGgSlMCm6JnZrCPpVTptEj2Byu9vUoO-iPIsmVjAyVeNDHxk71QVtTYQ50zwELbjL8cD-zRG66u2u6U7Nj_LEodKHvxSXuca4QMXWoiZPGTvDNFQjft8t9NBM83jxcuzvEICAFdUEwRzBdF46X0UC1alx9nj97WApkeiUazaxMg/p.jpeg",
+    src: "https://i.postimg.cc/K8MjS2Tg/gk-v1SqN.jpg",
     ctaText: "Expand",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -250,7 +250,7 @@ const cards = [
   {
     description: "Garhoud",
     title: "Prime Location",
-    src: "https://uced33377b38d99780ae398c61d3.previews.dropboxusercontent.com/p/thumb/ACkyRZeQytzHatbRPiFulLWel82jGeiT-vaqvFrWcW0toEyLekL40HemkaH02hlzFeyhXeN8Gak4yv15vdnJkAOpdKcixHyMls2dJD5hFZ_bfmZ9D7sQJyOpGkeen0ZKM7JsM1jYw0Bc53dI0Ez0k2eouu_chkaGhRF6MlmvHotBUNAu3baYUNQLK1REDzah6ywdPtDr_jfbmYRRF3Q5gkemTK56Q9L91dJvvR5b9gl06wRkpOrJ-d6uwIUWuR3nWc4nGRuuHB_12ncrkrjDfv_VQhSPOCXOmgf0Z3zDxfhDbZhEXF-s8QUIK3B9lq4B0iiKTXdHWkXF8Pg5uhLFOJUDsYWmOlvvRPKCvQzj9X2-23b4e9H0dPwvYPD8tezVQN66rJ-4Pf82E_q53H7OgCAdRsY2H4HdWNywg54ZRf2yRjYCQtN2nQbTXV2Bnoe3uZeV60LhRg8dtpYRnEhJmngO4QJS_rdSPWNAPNRVS1a4OB4fm6u2tPLwJ3FVlf27YokVw6Xf0Labv2I0URNJcUkugVmF9E124lxk-30WsVs4_Q/p.jpeg",
+    src: "https://i.postimg.cc/yNhNxyv1/UdDTEeNg.jpg",
     ctaText: "Expand",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
@@ -266,7 +266,7 @@ const cards = [
   {
     description: "Vision",
     title: "Our",
-    src: "https://uc48f2ee971c1a1188f3d0ce78e7.previews.dropboxusercontent.com/p/thumb/ACm22XHNIOnyBM3bb-keatk93bBVH6epUKcjAkwnnMaO9ygDnGBXTn1ivx32kvujWVoENMyCo-MfFec70rTiH8Cp74VhpRwrDkXmx_bpErRgzQkWoDzwt2HJY7iuVKTLjuTyImp9Hb7J_L-4Ef9RLmb4fGL3voN-Mivco5RRuEFGSnFvUIHI7Cdvqrb9cYS4R6AfKKXDccwifkcOX_Disv6B4hJiPIiFxv70BoVR2naRUjmKwmQ-vK18Fo-hbhO5XCPFXGQxmO8TJ73ZoPT997bUxLdv7TOnL10vwoPQt3IQDl5xBnWbG3vvmCnOv03s5yfYPM5fQsxGHgip2X-F72X83iaqS39fxbJCeXquITt33vAMv0q88IVJ3Pe3ZjkgPhLCFebe1x-L4SIZv0Mmrh2CRaicc94-pWJgsdoloBCk2UMiKnl8oxmY6dQDKYSdSMI9P1EunJUf9vOsfjwh7rXW_01RWlSlOVxA13oTO-CJ1pfoVgnMNUjfOIGuWh6N4fj3dw_Q-ahIccUlXYau9bIpZLMDv82Lb4K-aEthFTkqNg/p.jpeg",
+    src: "https://i.postimg.cc/0ywR25cP/image-1.jpg ",
     ctaText: "Expand",
     ctaLink: "https://ui.aceternity.com/templates",
     content: () => {
