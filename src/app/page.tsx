@@ -323,7 +323,7 @@ function App() {
     transition={{ duration: 0.5 }}
   >
     <Image
-      src="" // Replace with your image
+      src="https://i.postimg.cc/0ywR25cP/image-1.jpg" // Replace with your image
       alt="Office background"
       fill
       className="opacity-50 object-cover"
