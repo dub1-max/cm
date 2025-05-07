@@ -15,6 +15,12 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
+        hostname: "dl.dropboxusercontent.com",
+        port: "",
+      },
+      
+      {
+        protocol: "https",
         hostname: "i.postimg.cc",
         port: "",
       },

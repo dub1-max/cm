@@ -32,7 +32,7 @@ function App() {
 
         <div className="text-left mb-12">
           <p className="text-sm uppercase tracking-wider text-gray-500 mb-2">Connecting Minds</p>
-          <h1 className="text-7xl font-bold mb-2">
+          <h1 className="text-6xl font-bold mb-2">
            Business   <span className="text-green-500">centers</span>
             <br />and many more
           </h1>
@@ -100,7 +100,7 @@ function App() {
             <div className="flex flex-col justify-center">
               <h3 className="text-sm uppercase tracking-wider text-gray-600 mb-4">Connecting Minds</h3>
               <h2 className="text-3xl font-bold mb-4">
-              At Connecting Minds we offer flexible office solutions, including 
+              At Connecting Minds we offer flexible office solutions, including <br></br>
               <br /><span className="text-green-500">Fully-equipped offices, 
               virtual offices with a prestigious address, and collaborative flexi desks.</span>       
               <br></br><br></br>Elevate your business with our prime location and professional support.

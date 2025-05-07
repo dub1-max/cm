@@ -4,32 +4,33 @@ export function TestimonialMain() {
   const testimonials = [
     {
       quote:
-        "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
-      name: "Michael Rodriguez",
-      designation: "CTO at InnovateSphere",
-      src: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "As the Founder and Managing Director of Connecting Minds Business Center L.L.C, Marina has been instrumental in shaping the company’s direction since its establishment in 2022. With over nine years in the serviced office industry, she leads business strategy, operations, and client experience with clarity and vision.",
+      name: "Marina D’Souza",
+      designation: "Founder & Managing Director",
+      src: "https://i.postimg.cc/WzLNcSg1/cm3.jpg",
     },
     {
       quote:
-        "This solution has significantly improved our team's productivity. The intuitive interface makes complex tasks simple.",
-      name: "Emily Watson",
-      designation: "Operations Director at CloudScale",
-      src: "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Vijay is a strategic leader with over six years of experience in business support services. He founded SAT Business Setup, which continues to assist entrepreneurs across the UAE. At Connecting Minds, he plays a key leadership role—expanding operations, launching four centers, and elevating service delivery.",
+      name: "Vijay D’Souza",
+      designation: "Operational Manager",
+      src: "https://i.postimg.cc/KcPqwsJV/11108269.png"
     },
     {
       quote:
-        "Outstanding support and robust features. It's rare to find a product that delivers on all its promises.",
-      name: "James Kim",
-      designation: "Engineering Lead at DataPro",
-      src: "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Nisha ensures smooth daily operations with expertise in office management and client coordination. Recognized as Best New Employee of 2024, she is praised for her professional, client-focused approach and seamless handling of center operations—making her an essential asset to the team.",
+      name: "Shashikala Nishadi",
+      designation: "Administrative Officer",
+      src: "https://i.postimg.cc/BZHZB9fL/cm1.jpg",
     },
     {
       quote:
-        "The scalability and performance have been game-changing for our organization. Highly recommend to any growing business.",
-      name: "Lisa Thompson",
-      designation: "VP of Technology at FutureNet",
-      src: "https://images.unsplash.com/photo-1624561172888-ac93c696e10c?q=80&w=2592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "Sourabh is a results-driven Sales Executive focused on flexible office solutions. Starting in an administrative role, his outstanding performance and client service earned him a promotion to sales. Over the past two years, he has helped boost occupancy and client satisfaction through tailored workspace offerings and strong relationship-building.",
+      name: "Sourabh Badhan",
+      designation: "Sales Executive",
+      src: "https://i.postimg.cc/PJWtXZQz/cm2.jpg",
     },
+
   ];
   return <AnimatedTestimonials testimonials={testimonials} />;
 }
