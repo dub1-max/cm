@@ -323,7 +323,7 @@ function App() {
     transition={{ duration: 0.5 }}
   >
     <Image
-      src="https://uc3fd16bed01c1ec39f136c916c1.previews.dropboxusercontent.com/p/thumb/ACmOw1-ZDZSDuXeHy8LYO-pBQMe8rqixRhbG4RwbvX-ma74UV-hgMvJCHro3INQ70metiGC4Cz04NWlIaJeyDImpF0iI7tUN35UByvL8PettVWilMuss7vh25V8Js8Xp_lG_AUptO4nw9muhdbWlxsV3xnx9KihTjnGw5dn8pkOY4CfWTPx5mRl2EN76bwu3MSJUUOjCKpAaNbTft7LXMHXdcLdm-RmAN57RNme57ckp6NObr3tveGt0O-pxcLybHiufVI-qgVfrMXRdYt85B1s2LPSOH4JEYETWOZS_FalxxW7YaGd46OXScT5NjRPOWs1l5qM8pQmwJ-qzA9mAVzkwaWHaNNr8uGu0iB73Ac2ex0TGlMa_uchj2l_Oj2pMY66T21bKZM0lvBz7-7JaYbugFn9QTUEaZkN_nOAq-jFM6QGh5OFLGR2YlE6UyBZ6xpKUVXQIDNyCm7YLq_kUFw-VFCNXdZwjKAemqnNUVZGZYAgkq4p_NTMvAwPbzxxu1hSHXzLbR6eAjGuBYOFNWNtALPGe3aMfAa_rn6-IAD6N5g/p.jpeg" // Replace with your image
+      src="" // Replace with your image
       alt="Office background"
       fill
       className="opacity-50 object-cover"
